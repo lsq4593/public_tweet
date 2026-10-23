@@ -1,0 +1,27 @@
+{
+  "sourceMd": "C:\\Users\\cbs\\Desktop\\公众号推文\\05_AI动手手册\\个人成长\\AI 时代不必追赶所有人，找到你的节奏就很好.md",
+  "grid": {
+    "out": "C:\\\\Users\\\\cbs\\\\Desktop\\\\公众号推文\\\\05_AI动手手册\\\\个人成长\\\\_配图\\\\AI时代不必追赶所有人_备选封面_聚光格子.png",
+    "kicker": "别人的 60 格都排满了",
+    "subtitle": "你只需要走好你那一格",
+    "captionTop": "所有人都在赶同一趟车",
+    "captionBottom": "被点亮的那一格，才是你",
+    "litCol": 8,
+    "litRow": 2
+  },
+  "paper": {
+    "out": "C:\\\\Users\\\\cbs\\\\Desktop\\\\公众号推文\\\\05_AI动手手册\\\\个人成长\\\\_配图\\\\AI时代不必追赶所有人_备选封面_纸稿红笔.png",
+    "kicker": "不必对标",
+    "subtitle": "别人的快，不该变成压在你身上的标尺",
+    "rotate": -3.2
+  },
+  "ledger": {
+    "out": "C:\\\\Users\\\\cbs\\\\Desktop\\\\公众号推文\\\\05_AI动手手册\\\\个人成长\\\\_配图\\\\AI时代不必追赶所有人_备选封面_台账.png",
+    "kicker": "风口永远追不完",
+    "subtitle": "不必对标，按自己的节奏来",
+    "panelHead": "27 行清单，别人勾掉了 23 行",
+    "panelFoot": "空着的 4 行，留给你自己",
+    "filled": 26,
+    "total": 27
+  }
+}
